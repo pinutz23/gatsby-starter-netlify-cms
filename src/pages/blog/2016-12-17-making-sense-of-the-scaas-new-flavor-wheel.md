@@ -10,6 +10,7 @@ featuredimage: /img/flavor_wheel.jpg
 tags:
   - flavor
   - tasting
+mySlug: mein super slug
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
