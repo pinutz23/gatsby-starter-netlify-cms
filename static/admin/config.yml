@@ -28,6 +28,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "My Slug", name: "mySlug", widget: "string"}
+      - {label: "Neues Feld", name: "neuesFeld", widget: "string"}
 
   - name: "pages"
     label: "Pages"
